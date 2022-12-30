@@ -1,2 +1,2 @@
 # coldorhotday
-Program that will check to see if it's a hot or cold day and print results
+Program that will check to see if it's a cold or hot day and print results
